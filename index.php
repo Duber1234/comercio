@@ -59,7 +59,7 @@ window.ShopifyPay.apiHost = "shop.app\/pay";</script>
 <script type="text/javascript">
   // aqui voy
 </script>
-<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//themes.materializecss.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script  data-source-attribution="shopify.dynamic-checkout" defer="defer" src="cdn/shopifycloud/shopify/assets/storefront/x4.js" crossorigin="anonymous"></script>
 
 
 <style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
@@ -933,8 +933,8 @@ Ea salvia adipisicing vegan man bun. Flexitarian cupidatat skateboard flannel. D
 
     <!-- Core Javascript -->
     <script src="js/jquery-3.7.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/materialize/0.98.0/js/materialize.min.js"></script>
-    <script src="//themes.materializecss.com/cdn/shop/t/1/assets/gallery.min.opt.js?v=119532826976635485821490330943" crossorigin="anonymous"></script>
+     <script src="materialize/js/materialize2.min.js"></script>
+    <script src="cdn/shop/t/1/assets/gallery.min.opt.js?v=119532826976635485821490330943" crossorigin="anonymous"></script>
 <script type="text/javascript">
   
 </script>
